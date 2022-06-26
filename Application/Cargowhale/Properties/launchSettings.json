@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Cargowhale": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

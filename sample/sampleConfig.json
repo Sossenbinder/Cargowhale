@@ -1,0 +1,14 @@
+{
+	"cron": "*/1 * * * *",
+	"exportOptions": {
+		"ContainerUrl": "https://<...>.blob.core.windows.net/sqlbackups",
+		"BlobConnectionString": "<...>",
+		"DatabaseName": "TESTDB",
+		"DockerUsername": "<...>",
+		"DockerPassword": "<...>",
+		"SqlConnectionString": "Server=localhost,1433;Database=TESTDB;User Id=<...>;Password=<...>;",
+		"DatabasePassword": "<...>",
+		"DatabaseUsername": "<...>",
+		"ImageName": "<...>"
+	}
+}
